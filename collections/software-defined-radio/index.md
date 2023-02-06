@@ -1,5 +1,6 @@
 ---
 items:
+ - BelmY/SDR-FuNatic (with SDR books/information and more than 200 SDR/SDx related repositories)
  - gnuradio/gnuradio
  - gnuradio/volk
  - gqrx-sdr/gqrx
